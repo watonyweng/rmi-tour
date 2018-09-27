@@ -1,16 +1,13 @@
-# Compiled class file
+### Compiled Class Files ###
 *.class
 
-# Log file
+### Log Files ###
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
+### Mobile Tools for Java ME ###
 .mtj.tmp/
 
-# Package Files #
+### Package Files ###
 *.jar
 *.war
 *.nar
@@ -19,5 +16,20 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+### Target Files ###
+target/
+
+### IDE Files ###
+.settings/
+.classpath
+.project
+.idea/
+
+### mac OS Files ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
