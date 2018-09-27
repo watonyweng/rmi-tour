@@ -1,6 +1,6 @@
 # rmi-tour
 
-This project was generated with [vue-katex](https://github.com/lucpotage/vue-katex) using [vue-cli](https://github.com/vuejs/vue-cli).
+This project was generated with [Java RMI](https://docs.oracle.com/javase/tutorial/rmi/index.html) using [maven](https://github.com/apache/maven).
 
 ## Environment
 
